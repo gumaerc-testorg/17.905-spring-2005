@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9df4f259-0fde-275a-9ffc-fdb7c61de743
 resourcetype: Document
 title: Civil Society and the Dangers of Social Capita
 uid: b45c3d5e-7146-81dc-4e66-2c4536c53a7e
