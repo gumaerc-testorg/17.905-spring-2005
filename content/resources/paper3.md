@@ -3,6 +3,7 @@ content_type: resource
 description: 'Sample of student work: A research grant proposal to the Ford Foundation
   Peace and Social Justice Program.'
 file: /courses/17-905-forms-of-political-participation-old-and-new-spring-2005/f353b701ff6bab5dd850355b799b63d7_paper3.pdf
+file_size: 79374
 file_type: application/pdf
 learning_resource_types:
 - Assignments
