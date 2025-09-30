@@ -29,7 +29,7 @@ Overview
 Class Discussion: What is the value of community? Why do we participate in public life?
 {{< tdclose >}}{{< tdopen >}}
 
-Movie: [*Pleasantville*](http://www.imdb.com/title/tt0120789/)
+Movie: {{% resource_link "18b6d53b-39a2-4cda-8c38-c6324bc10809" "*Pleasantville*" %}}
 
 Bellah, Robert, et al. *Habits of the Heart: Individualism and Commitment in American Life*. New York, NY: Harper & Row, 1986, Preface, pp. 3-26, 167-95. ISBN: 9780060970277. (Chapter 2 optional.)
 
